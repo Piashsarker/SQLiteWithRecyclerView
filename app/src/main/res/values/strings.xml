@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SQL Lite</string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_instructor_list">Instructor List</string>
+    <string name="nav_item_add_instructor">Add Instructor</string>
+    <string name="hint_name"> Name</string>
+    <string name="hint_dept"> Dept</string>
+    <string name="hint_email"> Email</string>
+    <string name="hint_salary"> Salary</string>
+
+
+
+    <string name="btn_add">Add</string>
+
+    <!-- Error Message   -->
+    <string name="err_msg_name">Enter Name</string>
+    <string name="err_msg_email">Enter Valid Email</string>
+    <string name="err_msg_dept">Enter Dept</string>
+    <string name="err_msg_salary">Enter Salary</string>
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_add_instructor</item>
+        <item>@string/nav_item_instructor_list</item>
+
+    </string-array>
+    >
+    <string name="title_add_instructor">Add Instructor</string>
+    <string name="title_instructor_list">Instructor List</string>
+
+</resources>
